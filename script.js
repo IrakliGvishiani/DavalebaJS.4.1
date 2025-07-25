@@ -1,10 +1,7 @@
 ////////////// 1.
 // let array = ["გიორგი","ნიკა","ლაშა","დათო","ზურა"]
 
-// let amount = 0
 // let count = 0
-
-// let nameN = 0
 
 
 // for(let i = 0;i<array.length;i++){
@@ -47,17 +44,36 @@
 
 ////////////////// 4.
 
-let notNumber = ["მაგიდა","სკამი","ჭაღი","დივანი","მაცივარი"]
+// let notNumber = ["something","frog","key","dog","calculate"]
 
-let count = 0
-let count1 = 0
-let smth = notNumber[0]
 
-for(let i = 0;i<smth.length;i++){
+// for(let i = 0;i<notNumber.length;i++){
 
-  smth[i] = count
-  count++
+// if(notNumber[i].length > 5){
+//   console.log(notNumber[i])
+// }
+// }
 
+///////////////////////////////////////////
+
+////////////// 5.
+
+// let massiv = [12,55,23,76,76,34,78,50,23,65]
+
+// for(let i = 0;i<massiv.length;i++){
+//   if(massiv[i] == 50){
+//     console.log(true)
+//   }
+
+// }
+///////////////////////////////////////////////
+
+///////////////// 6.
+
+// let msv = [10,56,23,88,19,77,34,91]
+
+// for(let i = 0 ;i<msv.length;i++){
+ 
+// console.log(msv[i]*2)
+// }
   
-}
-console.log(count)
